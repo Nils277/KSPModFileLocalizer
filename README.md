@@ -35,7 +35,7 @@ in the case of KPBS this would look like this:
 BEWARE, this feature is still in development and not fully tested yet! Feedback is welcome.  
 For each KSPedia file you want to translate you have to set up a config file with the following content:
 
-    StaticFileLocalizer
+    FileLocalization
     {
         path = GameData/Path/to/file/
         filename = filename.extension
