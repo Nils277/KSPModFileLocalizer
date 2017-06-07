@@ -33,7 +33,7 @@ in the case of KPBS this would look like this:
 
 ### Other static files
 BEWARE, this feature is still in development and not fully tested yet! Feedback is welcome.  
-For each KSPedia file you want to translate you have to set up a config file with the following content:
+For each static file you want to translate you have to set up a config file with the following content:
 
     FileLocalization
     {
