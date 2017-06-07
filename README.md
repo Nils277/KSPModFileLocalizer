@@ -24,7 +24,7 @@ For the files to work, you have to name them according to that scheme:
 <b>filename</b> + "_" + language_tag + ".lang" for the files that can be translated and  
 <b>filename</b> + "_" + language_tag + ".ksp" for the file that should be used.  
 
-in the case of KPBS this would look like this:
+in the case of KPBS the folder would look like this:
 
     planetarybaseinc_es-es.lang
     planetarybaseinc_en-us.ksp
@@ -52,7 +52,7 @@ For the files to work, you have to name them according to that scheme:
 <b>filename</b> + "." + language_tag + ".lang" for the files that can be translated and  
 <b>filename</b> for the file that should be used.  
 
-in the case of KPBS the filder would something look like this:  
+in the case of KPBS the folder would something look like this:  
     
     cargobay.dds.es-es.lang 
     cargobay.dds  
